@@ -2,6 +2,9 @@
 
 Esta aplicação, desenvolvida com **Spring Boot**, fornece autenticação via **JWT (JSON Web Token)**. A seguir, veja como executar a aplicação, acessar ferramentas úteis e rodar testes de carga.
 
+🌐 Link da aplicação (Deploy Railway)
+👉 https://arquitetura-web-av2-production.up.railway.app/
+
 ---
 
 ## ✅ Requisitos
